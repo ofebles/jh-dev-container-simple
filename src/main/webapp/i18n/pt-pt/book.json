@@ -1,0 +1,28 @@
+{
+  "myapplicationApp": {
+    "book": {
+      "home": {
+        "title": "Books",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Criar novo(a) Book",
+        "createOrEditLabel": "Criar ou editar Book",
+        "notFound": "Nenhum Books encontrado"
+      },
+      "created": "Um novo Book foi criado com o identificador {{ param }}",
+      "updated": "Book com identificador {{ param }} foi actualizado",
+      "deleted": "Book com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Book {{ id }}?"
+      },
+      "detail": {
+        "title": "Book"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "publicationDate": "Publication Date",
+      "price": "Price",
+      "author": "Author"
+    }
+  }
+}

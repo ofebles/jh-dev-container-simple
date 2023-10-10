@@ -1,0 +1,20 @@
+{
+  "changelogDate": "20231010093053",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "birthDate",
+      "fieldType": "LocalDate"
+    }
+  ],
+  "jpaMetamodelFiltering": true,
+  "name": "Author",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}

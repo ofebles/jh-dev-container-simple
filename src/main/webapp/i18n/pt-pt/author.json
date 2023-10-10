@@ -1,0 +1,25 @@
+{
+  "myapplicationApp": {
+    "author": {
+      "home": {
+        "title": "Authors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Criar novo(a) Author",
+        "createOrEditLabel": "Criar ou editar Author",
+        "notFound": "Nenhum Authors encontrado"
+      },
+      "created": "Um novo Author foi criado com o identificador {{ param }}",
+      "updated": "Author com identificador {{ param }} foi actualizado",
+      "deleted": "Author com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Author {{ id }}?"
+      },
+      "detail": {
+        "title": "Author"
+      },
+      "id": "ID",
+      "name": "Name",
+      "birthDate": "Birth Date"
+    }
+  }
+}
